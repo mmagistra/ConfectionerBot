@@ -1,1 +1,2 @@
-from keyboards.client_kb import client_keyboard
+from keyboards.admin import *
+from keyboards.client import *
